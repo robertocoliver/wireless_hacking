@@ -7,4 +7,5 @@ Estudos e anotações
 [O ataque Pixie Dust WPS](https://medium.com/@robertocoliver/o-ataque-pixie-dust-wps-a669fbb58625)<br />
 [Capturando Handshake e fazendo ataques brute-force](https://medium.com/@robertocoliver/capturando-handshake-e-fazendo-ataques-brute-force-c813d015b475)<br/>
 [Ataque MITM com Fake AP](https://medium.com/@robertocoliver/ataque-mitm-com-fake-ap-699a9ee36ab8)
+[Fake AP + Engenharia Social](https://medium.com/@robertocoliver/fake-ap-engenharia-social-01c4ae0a63ae)
 <br />
